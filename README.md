@@ -15,4 +15,5 @@
 - CrackMapExec Backend
 - BlackMarlinExec Intertubes
 >- GangstaCrew [@byt3n33dl3](https://github.com/byt3n33dl3/)
+- `Frontend` Web Assessor 2 (c) [Amel](https://github.com/Amellia04) Universitas Indonesia
 - Security Checker [@Gangstacrew](https://github.com/Gangstacrew/)
