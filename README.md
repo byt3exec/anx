@@ -1,4 +1,4 @@
-# [Jennifer](https://s.id/jrnex) / `Master`
+# [Jennifer](https://s.id/jrnex) / `Web`
 
 <p align="center">
   <img src="/assets/images/nafa-white.png">
@@ -15,5 +15,5 @@
 - CrackMapExec Backend
 - BlackMarlinExec Intertubes
 >- GangstaCrew [@byt3n33dl3](https://github.com/byt3n33dl3/)
-- `Frontend` Web Assessor 2 (c) [Amel](https://github.com/Amellia04) Universitas Indonesia
+- `Frontend` and Woman `Content Policy and CSP` Web Assessor 2 (c) [Amel](https://github.com/Amellia04)
 - Security Checker [@Gangstacrew](https://github.com/Gangstacrew/)
